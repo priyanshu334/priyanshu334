@@ -1,4 +1,4 @@
-# Customizing Your GitHub Profile 🚀
+# 🚀
 # Hello, World! 👋
 
 Welcome to my GitHub profile! I'm Priyanshu, a passionate MERN Developer from Nagpur. Explore below to get to know me better.
