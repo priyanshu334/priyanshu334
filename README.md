@@ -64,7 +64,7 @@ I'm a dedicated **MERN Stack Developer** with expertise in building end-to-end w
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu334&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -118,11 +118,11 @@ Python       25 mins         ▒░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshu334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>
 
 ---
 
-⭐️ From [Priyanshu](https://github.com/your-username)
+⭐️ From [Priyanshu](https://priyanshu334)
